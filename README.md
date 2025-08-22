@@ -31,10 +31,10 @@ The aim is to visualize how the city has evolved over time by aligning past and 
 
 ---
 
-## 📸 Final Output
-*Georeferenced Historical Map of Bangalore (1924) on OpenStreetMap Basemap*  
+## Final Output
+Below is the georeferenced Bangalore 1924 map aligned with the present-day OpenStreetMap:
 
-![Final Output](maps/final_output.png)  
+![Georeferenced Bangalore Map](geographic%20bangalore%20map%20analysis.png)
 
 ---
 
