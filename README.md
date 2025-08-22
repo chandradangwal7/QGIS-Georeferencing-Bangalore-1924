@@ -45,3 +45,8 @@ Below is the georeferenced Bangalore 1924 map aligned with the present-day OpenS
 ---
 
 ## 📂 Repository Structure
+
+├── Bangalore_1924_modified.tif # Georeferenced raster output
+├── Bangalore Lakes mapping from 1927 to present.png # Final layout image
+├── Layout 1.pdf # Print layout PDF
+└── README.md # Project documentation
